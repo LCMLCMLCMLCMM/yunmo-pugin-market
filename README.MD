@@ -32,3 +32,6 @@
 ## 云墨软件
 **云墨软件均存储在一个单独的存储库中**
 **[跳转至云墨APP发布处](https://github.com/LCMLCMLCMLCMM/ZHUOHUAAPP/releases)**
+
+## 其他
+-您可以点击Lock conversation来禁止评论
